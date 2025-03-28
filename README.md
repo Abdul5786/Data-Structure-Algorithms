@@ -42,6 +42,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
