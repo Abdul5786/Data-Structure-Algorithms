@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
@@ -80,6 +81,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
@@ -90,4 +92,8 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
