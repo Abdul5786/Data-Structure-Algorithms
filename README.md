@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
