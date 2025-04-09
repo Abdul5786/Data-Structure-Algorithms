@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 ## Linked List
@@ -21,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
