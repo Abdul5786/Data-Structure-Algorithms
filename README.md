@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0728-self-dividing-numbers) |
+| [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
