@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
