@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
@@ -60,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
