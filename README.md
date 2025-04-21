@@ -82,6 +82,7 @@
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Number Theory
 |  |
 | ------- |
