@@ -70,6 +70,7 @@
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
