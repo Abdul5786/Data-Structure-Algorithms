@@ -1,8 +1,8 @@
 class Solution {
     public boolean isThree(int n) 
     {
-         int count =1;//1
-        for(int i=2;i<=n;i++){//2
+         int count=0;//1
+        for(int i=1;i<=n;i++){//2
             if(n%i==0){
                 count++;
             }
