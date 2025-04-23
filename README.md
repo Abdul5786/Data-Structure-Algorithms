@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -174,6 +176,7 @@
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 ## Enumeration
 |  |
