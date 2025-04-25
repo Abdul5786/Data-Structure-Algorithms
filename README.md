@@ -33,6 +33,7 @@
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
+| [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
