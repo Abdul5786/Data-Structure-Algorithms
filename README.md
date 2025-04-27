@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
@@ -208,4 +209,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0046-permutations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
