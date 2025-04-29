@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@
 | [0035-search-insert-position](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 ## Trie
 |  |
