@@ -86,6 +86,7 @@
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
@@ -212,6 +213,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
@@ -219,6 +221,7 @@
 | [0046-permutations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
