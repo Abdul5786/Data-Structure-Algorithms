@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -225,6 +227,7 @@
 | [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Trie
 |  |
