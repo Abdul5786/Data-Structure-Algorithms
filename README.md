@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
@@ -106,6 +107,7 @@
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
@@ -200,6 +202,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
