@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 ## Array
 |  |
@@ -125,6 +127,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
