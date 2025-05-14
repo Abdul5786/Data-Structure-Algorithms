@@ -126,6 +126,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
@@ -212,6 +213,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
+| [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1646-kth-missing-positive-number) |
