@@ -40,6 +40,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
@@ -82,6 +83,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
@@ -126,6 +128,7 @@
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
