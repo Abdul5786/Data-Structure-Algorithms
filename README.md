@@ -138,6 +138,7 @@
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
