@@ -68,6 +68,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1319-unique-number-of-occurrences) |
@@ -143,6 +144,7 @@
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
@@ -242,6 +244,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
