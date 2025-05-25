@@ -44,6 +44,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +68,7 @@
 | [0001-two-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -191,6 +193,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
@@ -346,6 +349,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
 ## Quickselect
