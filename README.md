@@ -43,6 +43,7 @@
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
