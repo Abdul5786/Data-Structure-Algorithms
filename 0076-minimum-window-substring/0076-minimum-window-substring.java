@@ -1,42 +1,48 @@
 public class Solution {
     public String minWindow(String s, String t) {
-        int n = s.length();
-        if (t.length() > n) {
+       if (s.length() < t.length()) {
             return "";
         }
+
         Map<Character, Integer> mp = new HashMap<>();
-        // Store frequencies of t
         for (char ch : t.toCharArray()) {
-            mp.put(ch, mp.getOrDefault(ch, 0) + 1);
+            mp.put(ch, mp.getOrDefault(ch, 0) + 1); // Insert t's characters with frequency
         }
+
         int requiredCount = t.length();
-        int i = 0, j = 0;
         int minWindowSize = Integer.MAX_VALUE;
         int start_i = 0;
-        // Sliding window
-        while (j < n) {
-            char ch = s.charAt(j);
+        int left = 0, right = 0;
+
+        while (right < s.length()) {
+            char ch = s.charAt(right);
+
             if (mp.containsKey(ch) && mp.get(ch) > 0) {
                 requiredCount--;
             }
-           
+
             mp.put(ch, mp.getOrDefault(ch, 0) - 1);
 
             while (requiredCount == 0) {
-                int currWindowSize = j - i + 1;
-                if (minWindowSize > currWindowSize) {
-                    minWindowSize = currWindowSize;
-                    start_i = i;
+                int currentWindowSize = right - left + 1;
+                if (currentWindowSize < minWindowSize) {
+                    minWindowSize = currentWindowSize;
+                    start_i = left;
                 }
-                char startChar = s.charAt(i);
+
+                char startChar = s.charAt(left);
                 mp.put(startChar, mp.getOrDefault(startChar, 0) + 1);
+
                 if (mp.containsKey(startChar) && mp.get(startChar) > 0) {
                     requiredCount++;
                 }
-                i++;
+
+                left++;
             }
-            j++;
+
+            right++;
         }
+
         return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
     }
 }
