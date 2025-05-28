@@ -166,6 +166,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
@@ -216,6 +218,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 ## Simulation
