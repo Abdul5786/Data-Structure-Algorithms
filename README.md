@@ -84,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -163,6 +164,7 @@
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +223,7 @@
 | [0155-min-stack](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -230,6 +233,7 @@
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
