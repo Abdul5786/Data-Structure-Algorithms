@@ -166,6 +166,7 @@
 | [0495-teemo-attacking](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
@@ -224,6 +225,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -234,6 +236,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
