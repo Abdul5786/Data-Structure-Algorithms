@@ -66,6 +66,7 @@
 | [0009-palindrome-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
@@ -101,6 +102,7 @@
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
@@ -167,6 +169,7 @@
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -373,6 +376,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0866-rectangle-overlap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0866-rectangle-overlap) |
 ## Memoization
 |  |
