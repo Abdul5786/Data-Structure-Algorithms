@@ -14,6 +14,7 @@
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -97,6 +99,7 @@
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
