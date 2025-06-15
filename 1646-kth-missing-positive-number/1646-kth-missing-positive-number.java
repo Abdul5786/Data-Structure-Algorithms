@@ -2,7 +2,7 @@ class Solution {
     public int findKthPositive(int[] arr, int k) 
     {
 
-           int currentValue=1;
+        int currentValue=1;
         int index=0;
         int missingNumberCount=0;
 
@@ -29,9 +29,8 @@ class Solution {
         }
 
         return -1;
-    }
-    }
     
+
 
     //    // using Binary Search 
 
@@ -47,4 +46,9 @@ class Solution {
     //     }
     //     return high + 1 + k;
 
+    
+
+    }
+    
+}
     
