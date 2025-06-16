@@ -235,6 +235,7 @@
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
