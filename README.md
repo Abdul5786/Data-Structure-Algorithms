@@ -34,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0155-min-stack) |
