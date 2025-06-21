@@ -268,6 +268,7 @@
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -454,6 +455,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -504,6 +506,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -514,4 +517,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
