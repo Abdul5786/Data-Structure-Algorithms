@@ -455,6 +455,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -464,6 +465,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sliding Window
@@ -510,6 +512,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -524,6 +527,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
