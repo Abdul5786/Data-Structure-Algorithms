@@ -468,6 +468,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -535,6 +536,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
@@ -543,6 +545,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -562,6 +565,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
