@@ -4,6 +4,8 @@ class Solution {
         return find(root,low,high);
     }
     public int find(TreeNode root, int low, int high){
+        
+        
         int sum = 0;
 
         if(root==null)
@@ -13,12 +15,12 @@ class Solution {
 
         if(root.val>=low && root.val<=high)
         {
-            sum = sum + root.val;
+            sum +=root.val;
         }
         int left_sum = find(root.left,low,high);
         int right_sum = find(root.right,low,high);
 
-        sum = sum + left_sum + right_sum;
+        sum +=left_sum + right_sum;
         return sum;
     }
 }
