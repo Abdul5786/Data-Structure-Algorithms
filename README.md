@@ -43,6 +43,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
@@ -426,6 +427,7 @@
 | [0113-path-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 ## Trie
 |  |
@@ -468,6 +470,7 @@
 | [0226-invert-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
@@ -540,6 +543,7 @@
 | [0226-invert-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -572,6 +576,7 @@
 | [0226-invert-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
