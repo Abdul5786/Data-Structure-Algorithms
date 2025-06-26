@@ -478,6 +478,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -489,6 +490,7 @@
 | [0226-invert-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sliding Window
 |  |
@@ -552,6 +554,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -586,5 +589,6 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
