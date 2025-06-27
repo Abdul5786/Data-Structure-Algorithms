@@ -383,6 +383,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -442,6 +443,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -566,6 +569,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -577,6 +581,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -608,5 +613,6 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
