@@ -128,6 +128,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
@@ -153,6 +154,7 @@
 | [0414-third-maximum-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
@@ -226,6 +228,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
@@ -409,6 +412,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -529,6 +533,7 @@
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Queue
