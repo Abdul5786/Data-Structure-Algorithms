@@ -212,6 +212,7 @@
 | [0228-summary-ranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 ## Matrix
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
