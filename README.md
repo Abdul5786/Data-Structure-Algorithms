@@ -113,6 +113,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -193,6 +194,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -586,6 +589,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -631,6 +635,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
