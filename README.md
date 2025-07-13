@@ -170,6 +170,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1306-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -258,6 +259,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
@@ -421,6 +423,7 @@
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Number Theory
