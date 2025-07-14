@@ -257,6 +257,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
@@ -427,6 +428,7 @@
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
