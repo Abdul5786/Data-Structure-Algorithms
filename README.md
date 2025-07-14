@@ -192,6 +192,7 @@
 | [0035-search-insert-position](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
@@ -289,6 +290,7 @@
 | [0022-generate-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
