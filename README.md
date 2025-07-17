@@ -83,6 +83,7 @@
 | [0009-palindrome-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
@@ -300,6 +301,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -466,6 +468,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
