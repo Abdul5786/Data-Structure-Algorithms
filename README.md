@@ -82,6 +82,7 @@
 | [0002-add-two-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
@@ -302,6 +303,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -713,4 +715,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0319-bulb-switcher) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
