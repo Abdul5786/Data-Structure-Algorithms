@@ -18,7 +18,7 @@ class Solution {
 
         if(index+1<s.length() && Integer.parseInt(s.substring(index,index+2))<=26)
             ways+= helper(s,index+2,dp);
-
+            dp[index]=ways;
             return ways;
     }
 }
