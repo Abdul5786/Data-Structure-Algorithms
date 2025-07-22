@@ -295,6 +295,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -325,6 +326,7 @@
 | [0518-coin-change-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Stack
 |  |
 | ------- |
@@ -590,6 +592,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Sliding Window
 |  |
 | ------- |
