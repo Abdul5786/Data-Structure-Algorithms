@@ -205,6 +205,7 @@
 | [0051-n-queens](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0078-subsets) |
@@ -310,6 +311,7 @@
 | [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
@@ -390,6 +392,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
