@@ -58,6 +58,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
+| [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -328,6 +329,7 @@
 | [0518-coin-change-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Stack
 |  |
