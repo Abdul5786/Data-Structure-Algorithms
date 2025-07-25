@@ -14,7 +14,7 @@ class Solution {
 
       if(left>right) return 0;
 
-      if(left==right) return 1;
+      if(left==right) return 1; // single character always a palindrome
 
       if(dp[left][right] !=-1) return dp[left][right];
 
