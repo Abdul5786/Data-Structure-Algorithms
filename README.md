@@ -45,6 +45,7 @@
 | [0022-generate-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -318,6 +319,7 @@
 | [0063-unique-paths-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
