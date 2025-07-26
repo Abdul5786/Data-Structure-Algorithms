@@ -1,34 +1,27 @@
 class Solution {
+
+    // solve using dp approach
     public int nthUglyNumber(int n) 
     {
+        int dp[] = new int[n];
 
-        // step 1 
-      int dp[]   =    new int[n];
+        dp[0]= 1;
 
-      dp[0]=1; //  initialize first index with 1 know 1 will always prime factors
+        int p2=0, p3=0, p5=0;
 
-      // step 2  create pointers 
-       
-      int p2=0 , p3=0, p5=0;
+        for(int i=1;i<n;i++)
+        {
 
-      // step 3 generate all prime factors of 2 3 5
+            int nextUgly = Math.min(dp[p2]*2,Math.min(dp[p3]*3,dp[p5]*5));
 
-      for(int i=1; i<n;i ++)
-      {
-         int nextUgly = Math.min(dp[p2]*2,Math.min(dp[p3]*3,dp[p5]*5));
+             dp[i] = nextUgly;
+            if(nextUgly==dp[p2]*2) p2++;
+            if(nextUgly==dp[p3]*3) p3++;
+            if(nextUgly==dp[p5]*5) p5++;
+        }
 
-          dp[i] = nextUgly;
-
-      if(nextUgly==dp[p2]*2) p2++;
-      if(nextUgly==dp[p3]*3) p3++;
-      if(nextUgly==dp[p5]*5) p5++;
-
-      
-      }
-
-     
-
-      return dp[n-1];
-
+        return dp[n-1];
     }
+
+    
 }
