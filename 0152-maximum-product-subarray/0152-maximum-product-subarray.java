@@ -1,18 +1,26 @@
 class Solution {
-    public int maxProduct(int[] nums) {
-        int maxProduct = nums[0];
-        int currentMax = nums[0];
-        int currentMin = nums[0];
+    public int maxProduct(int[] nums) 
+    {
 
-        for (int i = 1; i < nums.length; i++) {
-            int temp = currentMax;
+       int ans=Integer.MIN_VALUE;
 
-            currentMax = Math.max(Math.max(nums[i], currentMax * nums[i]), currentMin * nums[i]);
-            currentMin = Math.min(Math.min(nums[i], temp * nums[i]), currentMin * nums[i]);
+       int pref=1,suff=1;
 
-            maxProduct = Math.max(maxProduct, currentMax);
-        }
+       for(int i=0;i<nums.length;i++)
+       {
+        
+        if(pref==0) pref=1;
+        if(suff==0) suff=1;
+         
+         pref *=nums[i];
+         suff *=nums[nums.length-1-i]; // calculating from backward
 
-        return maxProduct;
-    }
+         ans =Math.max(ans,Math.max(pref,suff));
+
+      
+
+       } 
+
+       return ans;
+}
 }
