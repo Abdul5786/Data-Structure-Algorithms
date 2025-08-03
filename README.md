@@ -34,6 +34,7 @@
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
@@ -185,6 +186,7 @@
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
@@ -288,6 +290,7 @@
 | [0890-lemonade-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -479,6 +482,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
