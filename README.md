@@ -281,6 +281,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
@@ -435,6 +436,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -457,6 +459,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -634,6 +637,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
