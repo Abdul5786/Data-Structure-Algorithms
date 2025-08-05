@@ -154,6 +154,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
+| [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -293,6 +294,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -638,6 +640,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
