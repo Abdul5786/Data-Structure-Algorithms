@@ -3,29 +3,35 @@ class Solution {
         
         
         List<Integer> result = new ArrayList<>();
+        int pFreq[] = new int[26];
+        int sFreq[] = new int[26];
         if (s.length() < p.length()) return result;
 
-        int[] pFreq = new int[26];
-        int[] sFreq = new int[26];
-
-        for (char ch : p.toCharArray()) {
-            pFreq[ch - 'a']++;
+        for(char ch: p.toCharArray())
+        {
+          pFreq[ch-'a']++;
         }
 
-        for (int i = 0; i < s.length(); i++) {
-            sFreq[s.charAt(i) - 'a']++;
-            
+        for(int i=0;i<s.length();i++)
+        {
+            sFreq[s.charAt(i)-'a']++;
 
-            // shrink  window
-            if (i >= p.length()) {
-                sFreq[s.charAt(i - p.length()) - 'a']--;
+            if(i>=p.length())
+            {
+                // shrink the window means decrease frequeny 
+
+                sFreq[s.charAt(i-p.length())-'a']--;
             }
 
-            if (Arrays.equals(pFreq, sFreq)) {
-                result.add(i - p.length() + 1);
-            }
+            if(Arrays.equals(sFreq,pFreq))
+                {
+                    result.add(i - p.length() + 1);
+                }
         }
-
+        
         return result;
     }
 }
+
+
+       
