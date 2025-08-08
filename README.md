@@ -63,6 +63,7 @@
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
@@ -268,6 +269,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -355,6 +357,7 @@
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0518-coin-change-ii) |
