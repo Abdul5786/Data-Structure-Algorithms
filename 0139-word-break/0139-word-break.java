@@ -1,33 +1,25 @@
-class TrieNode {
-    TrieNode[] children = new TrieNode[26];
-    boolean isEnd = false;
-}
+import java.util.*;
+
 class Solution {
-    TrieNode root = new TrieNode();
-    void insert(String word) {
-        TrieNode node = root;
-        for(char ch : word.toCharArray()) {
-            int idx = ch - 'a';
-            if(node.children[idx] == null) node.children[idx] = new TrieNode();
-            node = node.children[idx];
-        }
-        node.isEnd = true;
-    }
     public boolean wordBreak(String s, List<String> wordDict) {
-        for(String word : wordDict) insert(word);
-        Boolean[] dp = new Boolean[s.length() + 1];
-        return dfs(s, 0, dp);
+        Set<String> dict = new HashSet<>(wordDict); // Dictionary ko Set mein convert karo
+        Boolean[] memo = new Boolean[s.length()]; // Memoization array
+        return helper(s, 0, dict, memo); // Recursive helper function
     }
-    boolean dfs(String s, int start, Boolean[] dp) {
-        if(start == s.length()) return true;
-        if(dp[start] != null) return dp[start];
-        TrieNode node = root;
-        for(int i = start; i < s.length(); i++) {
-            int idx = s.charAt(i) - 'a';
-            if(node.children[idx] == null) break;
-            node = node.children[idx];
-            if(node.isEnd && dfs(s, i + 1, dp)) return dp[start] = true;
+
+    private boolean helper(String s, int start, Set<String> dict, Boolean[] memo) {
+        if (start == s.length()) return true; // Base case: string break ho chuki hai
+
+        if (memo[start] != null) return memo[start]; // Memoization check
+
+        for (int end = start + 1; end <= s.length(); end++) {
+            String substring = s.substring(start, end); // Substring extract karo
+            if (dict.contains(substring) && helper(s, end, dict, memo)) {
+                memo[start] = true; // Result store karo
+                return true;
+            }
         }
-        return dp[start] = false;
+        memo[start] = false; // Agar substring nahi mili toh false mark karo
+        return false;
     }
 }
