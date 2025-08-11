@@ -55,6 +55,7 @@
 | [0115-distinct-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
@@ -137,6 +138,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
@@ -239,6 +241,7 @@
 | [0134-gas-station](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -353,6 +356,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
@@ -539,6 +543,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -560,6 +565,7 @@
 | [0090-subsets-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
@@ -568,6 +574,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 ## Divide and Conquer
