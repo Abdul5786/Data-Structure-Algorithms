@@ -684,6 +684,7 @@
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1916-find-center-of-star-graph](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1916-find-center-of-star-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
