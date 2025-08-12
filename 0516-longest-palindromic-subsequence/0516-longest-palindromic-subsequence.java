@@ -24,7 +24,6 @@ class Solution {
        }
 
        else {
-
          dp[left][right] = Math.max(helper(s,left+1,right,dp),helper(s,left,right-1,dp));
        }
       
