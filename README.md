@@ -312,6 +312,7 @@
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -452,6 +453,7 @@
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -663,6 +665,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
