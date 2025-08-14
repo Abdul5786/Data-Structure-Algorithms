@@ -53,6 +53,7 @@
 | [0091-decode-ways](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
@@ -137,6 +138,7 @@
 | [0076-minimum-window-substring](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -652,6 +654,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0322-coin-change) |
