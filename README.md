@@ -69,6 +69,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 | [1170-shortest-common-supersequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1170-shortest-common-supersequence) |
@@ -377,6 +378,7 @@
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1170-shortest-common-supersequence) |
