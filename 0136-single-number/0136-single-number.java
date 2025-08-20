@@ -1,22 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) 
     {
-      Map<Integer,Integer> map =   new HashMap<>();
+      HashMap<Integer,Integer> map =  new HashMap<>();
 
       for(int num:nums)
       {
-       map.put(num,map.getOrDefault(num,0)+1);
+         map.put(num,map.getOrDefault(num,0)+1);
       }
 
-      for(Map.Entry<Integer, Integer> entries : map.entrySet())
+      for(Map.Entry<Integer,Integer> entry: map.entrySet())
       {
-          if(entries.getValue()==1)
+          if(entry.getValue()==1)
           {
-            return entries.getKey();
+            return  entry.getKey();
           }
       }
 
       return -1;
-
     }
 }
