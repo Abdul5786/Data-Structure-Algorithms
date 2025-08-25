@@ -666,6 +666,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
@@ -689,6 +690,7 @@
 | [0547-number-of-provinces](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
@@ -724,6 +726,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1916-find-center-of-star-graph](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1916-find-center-of-star-graph) |
 ## Binary Indexed Tree
@@ -845,5 +848,6 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
