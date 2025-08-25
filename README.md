@@ -326,6 +326,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1306-minimum-absolute-difference) |
@@ -472,6 +473,7 @@
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -666,6 +668,7 @@
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -688,6 +691,7 @@
 | [0733-flood-fill](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -841,4 +845,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
