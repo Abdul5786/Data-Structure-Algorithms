@@ -20,7 +20,6 @@ class Solution
           int n= mat[0].length;
 
          Queue<Pair>  q = new LinkedList<>();
-         boolean visited[][] = new boolean[m][n];
          int ans[][] = new int[m][n];
 
          for(int i=0;i<m;i++)
@@ -30,8 +29,10 @@ class Solution
                 if(mat[i][j]==0)
                 {
                     q.add(new Pair(i,j,0));
-                    visited[i][j]=true;
                     ans[i][j]=0;
+                }
+                else {
+                    ans[i][j] = -1; // mark unvisited
                 }
             }
          }
@@ -53,10 +54,9 @@ class Solution
                   int row = r+dir[0];
                   int col = c+dir[1];
 
-                 if (row >= 0 && row < m && col >= 0 && col < n && !visited[row][col])
+                 if (row >= 0 && row < m && col >= 0 && col < n && ans[row][col] == -1)
                   {
 
-                    visited[row][col]= true;
                     ans[row][col]=dist+1;
                     q.add(new Pair(row,col,dist+1));
                   }
