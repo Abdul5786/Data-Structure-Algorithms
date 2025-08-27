@@ -1,38 +1,59 @@
-class Solution {
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        HashSet<String> set=new HashSet<>(wordList);
-        if(!set.contains(endWord)) return 0;
-        Queue<String> q=new LinkedList<>();
-        q.offer(beginWord);
-        if(set.contains(beginWord)) set.remove(beginWord);
-        int level=0;
-        while(!q.isEmpty()){
-            int n=q.size();
-            for(int el=0;el<n;el++){
-                String node=q.poll();
-                if(node.equals(endWord)) return level+1;
-                List<String> Node_list=neighbours(node,set);
-                for(String s:Node_list){
-                    q.offer(s);
-                    set.remove(s);
-                }
-            }
-            level++;
-        }
-        return 0;
+public class Pair
+{
+    String firstWord;
+    int second;
+
+    Pair(String firstWord, int second)
+    {
+        this.firstWord= firstWord;
+        this.second= second;
     }
-    public List<String> neighbours(String node,HashSet<String> set){
-        List<String> list=new ArrayList<>();
-        char[] node_chars=node.toCharArray();
-        for(int i=0;i<node_chars.length;i++){
-            char original=node_chars[i];
-            for(char ch='a';ch<='z';ch++){
-                node_chars[i]=ch;
-                String new_word=String.valueOf(node_chars);
-                if(set.contains(new_word)) list.add(new_word);
+}
+
+class Solution {
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) 
+    {
+         Set<String> set =  new HashSet<>(wordList);
+         Queue<Pair>  q= new LinkedList<>();
+
+         if(!set.contains(endWord)) return 0; // check target word exist or not
+         if(set.contains(beginWord))
+         {
+            set.remove(beginWord);
+         }
+
+         q.add(new Pair(beginWord,1));  // add the source node 
+
+         while(!q.isEmpty())
+         {
+            String word  =   q.peek().firstWord;
+            int steps    = q.peek().second;
+            q.remove();
+
+            if(word.equals(endWord))  // if begin word equla to endWord
+            {
+                return steps;
             }
-            node_chars[i]=original;
-        }
-        return list;
+
+            for(int i=0;i<word.length(); i++)
+            {
+
+                for(char ch='a'; ch<='z';ch++)
+                {
+                    char[] replaced = word.toCharArray();
+                    replaced[i]= ch;
+                     String  newWord  = new String(replaced); // new Word formed hit->hot->tot
+
+                     if(set.contains(newWord))
+                     {
+                        set.remove(newWord);
+                        q.add(new Pair(newWord,steps+1));
+                     }
+                }
+            }  
+
+         }
+
+         return 0;
     }
 }
