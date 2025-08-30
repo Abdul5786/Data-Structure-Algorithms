@@ -108,6 +108,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
+| [0233-number-of-digit-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0319-bulb-switcher) |
@@ -131,6 +132,7 @@
 | [0044-wildcard-matching](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -379,6 +381,7 @@
 | [0152-maximum-product-subarray](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0312-burst-balloons) |
