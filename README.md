@@ -333,6 +333,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1319-unique-number-of-occurrences) |
@@ -484,6 +485,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -713,6 +715,7 @@
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Sliding Window
