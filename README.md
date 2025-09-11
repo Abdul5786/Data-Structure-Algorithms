@@ -353,6 +353,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
@@ -495,6 +496,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -542,6 +544,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -651,6 +654,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -696,6 +700,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -724,6 +729,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Sliding Window
 |  |
@@ -881,6 +887,7 @@
 | [0547-number-of-provinces](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
