@@ -67,6 +67,7 @@
 | [0392-is-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -159,6 +160,7 @@
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -739,6 +741,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0643-maximum-average-subarray-i) |
