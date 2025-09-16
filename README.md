@@ -23,6 +23,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
@@ -109,6 +110,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
@@ -154,6 +156,7 @@
 | [0149-max-points-on-a-line](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
