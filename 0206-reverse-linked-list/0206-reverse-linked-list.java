@@ -9,19 +9,21 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) 
-    {
-       ListNode curr=head;       
-                                                              
+    public ListNode reverseList(ListNode head)   // 1->2 reversing   2-> 1
+    {                                            // next , prev , 
+       ListNode curr = head;
        ListNode prev=null;
-       
+
        while(curr!=null)
        {
-          ListNode next = curr.next;
-          curr.next=prev;
-          prev=curr;
-          curr=next;
-       }
-     return prev;
+
+         ListNode next = curr.next;
+         curr.next= prev;   // break the connection
+         prev=curr;
+         curr=next;
+      }
+
+      return prev;
     }
+
 }
