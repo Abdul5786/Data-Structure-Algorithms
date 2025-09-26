@@ -71,6 +71,7 @@
 | [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
@@ -177,6 +178,7 @@
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -612,6 +614,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
