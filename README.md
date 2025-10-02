@@ -216,6 +216,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -310,6 +311,7 @@
 | [0322-coin-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
@@ -518,6 +520,7 @@
 | [0200-number-of-islands](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0542-01-matrix) |
@@ -567,6 +570,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -693,6 +697,7 @@
 | [0239-sliding-window-maximum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1127-last-stone-weight) |
