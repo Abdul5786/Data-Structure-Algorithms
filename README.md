@@ -562,6 +562,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -947,4 +948,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
