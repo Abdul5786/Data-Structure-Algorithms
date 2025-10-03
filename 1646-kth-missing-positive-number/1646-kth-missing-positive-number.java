@@ -1,54 +1,34 @@
-class Solution {
-    public int findKthPositive(int[] arr, int k) 
+class Solution 
+{
+    public int findKthPositive(int[] nums, int k) 
     {
+       int index=0;
+       int currentValue=1;
+       int countMissingNumber=0;
 
-        int currentValue=1;
-        int index=0;
-        int missingNumberCount=0;
+       while(countMissingNumber<k)
+       {
+                
+         if(index<nums.length && nums[index]==currentValue)
+         {
+             index++;
+         }
 
-        while(missingNumberCount<k)
-        {
-            if(index < arr.length && arr[index]==currentValue)
+         else
+         {
+          
+            countMissingNumber++;
+            if(countMissingNumber==k)
             {
-                // skip element
-                index++;
+                return currentValue;
             }
 
-          else {
+         }
 
-              missingNumberCount++;
-              if(missingNumberCount==k)
-              {
-                  return currentValue;
-              }
-          }
+         currentValue++;
 
-          currentValue++;
+       }
 
-
-        }
-
-        return -1;
-    
-
-
-    //    // using Binary Search 
-
-    //     int low = 0, high = arr.length - 1;
-    //     while (low <= high) {
-    //         int mid = (low + high) / 2;
-    //         int missing = arr[mid] - (mid + 1);
-    //         if (missing < k) {
-    //             low = mid + 1;
-    //         } else {
-    //             high = mid - 1;
-    //         }
-    //     }
-    //     return high + 1 + k;
-
-    
-
+       return -1; 
     }
-    
 }
-    
