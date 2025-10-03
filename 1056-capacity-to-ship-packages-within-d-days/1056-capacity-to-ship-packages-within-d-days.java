@@ -1,51 +1,62 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) 
     {
-          int max = 0; 
-        int sum = 0;
+       int max=0;
+       int  ans=0;
+       int sum=0;
 
-        // Calculate max and total sum of weights
-        for (int val : weights) {
-            sum += val;
-            max = Math.max(max, val);
-        }
+       for(int weight:weights)
+       {
+           sum +=weight;
 
-        int lo = max, hi = sum, res = 0;
+          max =Math.max(max,weight);
+       }
 
-        // Binary search for minimum capacity
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
+       int low=max;
+       int high = sum;
 
-            if (isPossible(weights, mid, days)) {
-                res = mid;
-                hi = mid - 1; // try for smaller capacity
-            } else {
-                lo = mid + 1; // need more capacity
-            }
-        }
 
-        return res;
-    }
+       while(low<=high)
+       {
 
-   // Check if we can ship within given days using given capacity (mid)
-    public static boolean isPossible(int[] wt, int mid, int days) {
-        int d = 1; // at least 1 day
-        int sum = 0;
+           int mid = low+(high-low)/2;
 
-        for (int i = 0; i < wt.length; i++) {
-            sum += wt[i];
+           if(isPossible(weights,mid,days))
+           {
+               ans = mid;
+               // try for minimum
 
-            if (sum > mid) {
-                d++;           // increase day count
-                sum = wt[i];   // start new day with current weight
-            }
-        }
+               high= mid-1;
+           }
 
-        return d <= days;
+           else
+           {
+              low =mid+1;
+           }
+       }
+
+     return ans;
     }
 
 
+    public boolean isPossible(int weights[],int capacity,int days)
+    {
+        int day=1;
+       int  totalSum=0;
+
+        for(int weight:weights)
+        {
+            totalSum +=weight;
+             
+             if(totalSum>capacity)
+             {
+
+                day++;
+                totalSum = weight;
+        }
+
+        }
+
+        return day<=days;
+    }
 }
-
-
-    
