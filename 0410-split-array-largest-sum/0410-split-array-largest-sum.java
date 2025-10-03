@@ -34,22 +34,19 @@ class Solution {
     }
   
       private boolean isPossible(int nums[], int k, int limit) {
-    int subarrayCount = 1; // Start with one subarray
-    int currentSum = 0;
+    int currentSum = 0, subArrayCount = 1;
 
     for (int num : nums) {
-        if (currentSum + num > limit) {
-            subarrayCount++;
-            currentSum = num; // Reset currentSum to num
-            if (subarrayCount > k) { // Too many subarrays needed
-                return false;
-            }
-        } else {
-            currentSum += num; // Add num to the current subarray
+        if (num > limit) return false; // single element exceeds limit
+        currentSum += num;
+
+        if (currentSum > limit) {
+            subArrayCount++;
+            currentSum = num;
         }
     }
 
-    return true; // Successfully split into k or fewer subarrays
+    return subArrayCount <= k; // total subarrays needed should be ≤ k
 }
         
     }
