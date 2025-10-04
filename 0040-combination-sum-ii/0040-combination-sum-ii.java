@@ -1,37 +1,38 @@
 class Solution {
-    List<List<Integer>> res=  new ArrayList<>();
+
+    List<List<Integer>> res = new ArrayList<>();
     public List<List<Integer>> combinationSum2(int[] candidates, int target) 
     {
-         
          Arrays.sort(candidates);
-         helper(candidates,target,0,new ArrayList<>());
-         return res;
+        combinationSum(candidates,0,target,new ArrayList<>());
+        return res;
     }
 
-   private void  helper(int candidates[],int target,int start,List<Integer> curr)
+
+    public void combinationSum(int candidates[],int start , int target,List<Integer> ans)
     {
 
         if(target==0)
         {
-            res.add(new ArrayList<>(curr));
-            return;
+           res.add(new ArrayList<>(ans));
+           return;
         }
 
         for(int i=start;i<candidates.length;i++)
         {
-              // skip duplicates
-            if(i>start && candidates[i]==candidates[i-1])
-              continue;
-              
-              // if current is greater then target
-              if(candidates[i]>target)
-              break;
 
-              curr.add(candidates[i]);
-              helper(candidates,target-candidates[i],i+1,curr);
-              //back track 
+           if(i>start && candidates[i]==candidates[i-1]) continue; // skip 
+          
+            
+            if(candidates[i]>target) break;
 
-              curr.remove(curr.size()-1);
+            ans.add(candidates[i]);
+            combinationSum(candidates,i+1,target-candidates[i],ans);
+
+            // backtrack
+
+            ans.remove(ans.size()-1);
+
         }
     }
 }
