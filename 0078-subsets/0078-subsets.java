@@ -1,34 +1,35 @@
 class Solution {
-    
 
-    List<List<Integer>> res= new ArrayList<>();
+    List<List<Integer>> res = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) 
     {
-         findSubsets(nums,0,new ArrayList<>());  
-         return res; 
+         helper(nums,0,new ArrayList<>());
+         return res;  
     }
 
 
-    private void findSubsets(int array[],int index,List<Integer> sublist)
+    public void helper(int nums[],int index, List<Integer> ans)
     {
 
-        if(index==array.length)
+        // base case 
+
+        if(index==nums.length)
         {
-            res.add(new ArrayList<>(sublist));
+            res.add(new ArrayList<>(ans));
             return;
         }
 
 
-        // pick 
+        // pick
 
-        sublist.add(array[index]);
-        findSubsets(array,index+1,sublist);
-        // back track
-        sublist.remove(sublist.size()-1);
-        // no pick
-        findSubsets(array,index+1,sublist);
+        ans.add(nums[index]);
+        helper(nums,index+1,ans);
 
+        // backtrack remove 
 
+        ans.remove(ans.size()-1);
+
+        helper(nums,index+1,ans);
     }
 }
