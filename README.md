@@ -154,6 +154,7 @@
 | [0394-decode-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -635,6 +638,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
