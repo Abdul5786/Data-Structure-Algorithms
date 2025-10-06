@@ -284,6 +284,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
@@ -607,6 +608,7 @@
 | [0045-jump-game-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
