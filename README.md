@@ -85,6 +85,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 | [1170-shortest-common-supersequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
@@ -448,6 +449,7 @@
 | [0518-coin-change-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -478,6 +480,7 @@
 | [0402-remove-k-digits](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -618,6 +621,7 @@
 | [0455-assign-cookies](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
