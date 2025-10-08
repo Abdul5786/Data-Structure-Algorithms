@@ -8,47 +8,37 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
- 
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) 
     {
-        // step 1 first create min heap 
+        PriorityQueue<ListNode> pq= new PriorityQueue<>((a,b)->a.val-b.val);
 
-       PriorityQueue<ListNode> pq =  new PriorityQueue<>((a,b)->a.val-b.val);
+        for(ListNode list:lists)
+        {
+            if(list!=null)
+            {
+                 pq.offer(list);
+            }
+           
+        }
 
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
 
-       // now put all first elements of list or head node into queue
+        while(!pq.isEmpty())
+        {
 
-       for(ListNode node :lists)
-       {
-         if(node!=null)
-         {
-            pq.offer(node);
-         }
-       }
+            ListNode min = pq.poll();
 
-       // creat a dummy node taaki result bnana esay ho 
+            curr.next=min;
+            curr=curr.next;
 
-       ListNode dummy =  new ListNode(-1);
-       ListNode curr =dummy;
+            if(min.next!=null)
+            {
+                pq.offer(min.next);
+            }
+        }
 
-       // jab tak heap khaali nhi hota
-
-       while(!pq.isEmpty())
-       {
-         ListNode min = pq.poll();
-         curr.next=min;
-         curr=curr.next;
-
-         // if node exist then put into the heap
-
-         if(min.next!=null)
-         {
-            pq.offer(min.next);
-         }
-       }
-
-       return dummy.next;
+        return dummy.next;
     }
 }
