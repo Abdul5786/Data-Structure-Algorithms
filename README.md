@@ -327,6 +327,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0413-arithmetic-slices) |
@@ -734,6 +735,7 @@
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
