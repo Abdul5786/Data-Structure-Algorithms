@@ -183,6 +183,7 @@
 | [0229-majority-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0383-ransom-note) |
@@ -222,6 +223,7 @@
 | [0229-majority-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -322,6 +324,7 @@
 | [0312-burst-balloons](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -516,6 +519,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -648,6 +652,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -718,6 +723,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -727,6 +733,7 @@
 | [0239-sliding-window-maximum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -736,6 +743,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Depth-First Search
 |  |
 | ------- |
