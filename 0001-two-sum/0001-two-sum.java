@@ -13,7 +13,6 @@ class Solution {
 
             map.put(nums[i],i);
         }
-
         return new int[]{-1,-1};
     }
 }
