@@ -93,6 +93,7 @@
 | [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Linked List
 |  |
@@ -398,6 +399,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -1014,4 +1016,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0278-first-bad-version) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
