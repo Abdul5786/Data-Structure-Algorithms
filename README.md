@@ -93,6 +93,7 @@
 | [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -411,6 +412,7 @@
 | [1791-richest-customer-wealth](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -520,6 +522,7 @@
 | [0566-reshape-the-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bucket Sort
 |  |
