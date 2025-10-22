@@ -257,6 +257,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -595,6 +597,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -636,6 +639,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -867,6 +871,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue
 |  |
 | ------- |
