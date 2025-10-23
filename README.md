@@ -96,6 +96,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -535,6 +537,7 @@
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -672,6 +675,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -1009,6 +1013,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
 | ------- |
