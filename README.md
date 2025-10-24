@@ -148,6 +148,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -215,6 +216,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -687,11 +689,13 @@
 | [0778-reorganize-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0778-reorganize-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2083-three-divisors) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -731,6 +735,7 @@
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Trie
 |  |
 | ------- |
