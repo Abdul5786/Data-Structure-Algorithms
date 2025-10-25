@@ -458,6 +458,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
@@ -796,6 +797,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -938,6 +940,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -987,6 +990,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
