@@ -24,9 +24,11 @@ class Solution {
 
         if(root==null) return true;
 
-        if(root.val<=min ||  root.val>=max) return false;
 
-       return isValidate(root.left,min,root.val) && isValidate(root.right,root.val,max);
+        if(root.val<=min || root.val>=max) return false;
+
+        return isValidate(root.left,min,root.val) && isValidate(root.right,root.val,max);
+
         
     }
 }
