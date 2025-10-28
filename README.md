@@ -435,6 +435,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
@@ -547,6 +548,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bucket Sort
 |  |
@@ -611,6 +613,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
