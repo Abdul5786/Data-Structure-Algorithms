@@ -11,34 +11,39 @@
 class Solution {
     public ListNode partition(ListNode head, int x) 
     {
-       ListNode small = new ListNode(0);
-       ListNode large = new ListNode(0);
+        ListNode smaller = new ListNode(0);
+       ListNode larger = new ListNode(0);
 
-       ListNode smallPointer = small;
-       ListNode largePointer = large;
 
-       while(head!=null)
-       {
+        ListNode smallPointer = smaller;
 
-          if(head.val<x)
-          {
-             smallPointer.next = head;
-             smallPointer = smallPointer.next;
-          }
+        ListNode largePointer = larger;
 
-          else 
-          {
-             largePointer.next = head;
-              largePointer = largePointer.next;
-             
-          }
 
-           head = head.next; // ✅ important step
-       }
+        while(head!=null)
+        {
 
-       smallPointer.next =large.next;
-       largePointer.next=null; 
+            if(head.val<x)
+            {
+                smallPointer.next = head;
+                smallPointer = smallPointer.next;
+            }
 
-       return small.next;
+            else
+            {
+
+                largePointer.next = head;
+                largePointer = largePointer.next;
+            }
+
+            head = head.next;
+        }
+
+        smallPointer.next = larger.next;
+        largePointer.next=null;
+
+
+        return smaller.next;
+
     }
 }
