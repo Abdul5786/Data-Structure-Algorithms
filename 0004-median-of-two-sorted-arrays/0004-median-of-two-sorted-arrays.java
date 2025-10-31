@@ -1,54 +1,50 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) 
     {
+        int n1 = nums1.length;
+        int n2 = nums2.length;
 
-      int n1= nums1.length;
-      int n2=nums2.length;
+        int index1=0 , index2=0;
 
-      int i=0, j=0;
+       List<Integer> res = new ArrayList<>();
 
-     ArrayList<Integer> res =  new ArrayList<>();
-
-
-      while(i<n1 && j<n2)
-      {
-
-         if(nums1[i]<nums2[j])
-         {
-         
-            res.add(nums1[i++]);
-         } 
-
-        else
+        while(index1<n1 && index2<n2)
         {
-           res.add(nums2[j++]);
+
+            if(nums1[index1]<nums2[index2])
+            {
+               res.add(nums1[index1]);
+               index1++;
+            }
+
+            else 
+            {
+                res.add(nums2[index2]);
+                index2++;
+            }
         }
 
-      }
+        while(index1<n1)
+        {
+            res.add(nums1[index1++]);
+        }
 
-      while(i<n1)
-      {
-          res.add(nums1[i++]);
-      }
+        while (index2<n2)
+        {
+           
+           res.add(nums2[index2++]);
+        }
 
-      while(j<n2)
-      {
-         res.add(nums2[j++]);
-      }
+        int totalLength = n1+n2;
 
-
-     int n= n1+n2;
-      
-       if(n%2==1)  // odd
-       {
-           return res.get(n/2);
-       }
-
+        if(totalLength%2==1) // --> odd
+        {
+           return res.get(totalLength/2);
+        }
 
         else
         {
-            return (res.get(n/2-1)+res.get(n/2))/2.0;
-        }   
-
+            return (res.get(totalLength / 2 - 1) + res.get(totalLength / 2)) / 2.0;
+        }
     }
 }
