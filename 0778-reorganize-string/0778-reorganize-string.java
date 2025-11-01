@@ -1,46 +1,46 @@
 class Solution {
     public String reorganizeString(String s) 
     {
-        HashMap<Character,Integer> freqMap = new HashMap<>();  // to calculate freq
+          HashMap<Character,Integer> map =   new HashMap<>();
 
-        for(char ch:s.toCharArray())
+          for(char ch : s.toCharArray())
+          {
+              map.put(ch,map.getOrDefault(ch,0)+1);
+          }
+
+         PriorityQueue<Character> pq =  new PriorityQueue<>((a,b)-> map.get(b)-map.get(a));
+         pq.addAll(map.keySet());
+
+        StringBuilder res =  new StringBuilder();
+
+        while(pq.size()>=2)
         {
-            freqMap.put(ch,freqMap.getOrDefault(ch,0)+1);
+
+
+            char c1 = pq.poll();
+            char c2 = pq.poll();
+             
+             res.append(c1);
+             res.append(c2);
+
+            map.put(c1,map.get(c1)-1);
+            map.put(c2,map.get(c2)-1);
+
+
+            if(map.get(c1)>0) pq.add(c1);
+            if(map.get(c2)>0) pq.add(c2);
+               
         }
 
-        // add all elements in priorityQueue basis on frquency
 
-       PriorityQueue<Character> maxHeap =  new PriorityQueue<>((a,b)->freqMap.get(b)-freqMap.get(a));
-       maxHeap.addAll(freqMap.keySet());
-     
-     StringBuilder res =   new StringBuilder();
-       while(maxHeap.size()>=2)
-       {
+        if(!pq.isEmpty())
+        {
+            char ch = pq.poll();
 
+            if(map.get(ch)>1) return "";
+             res.append(ch);
+        }
 
-         char c1 =maxHeap.poll();
-         char c2 = maxHeap.poll();
-
-         res.append(c1);
-         res.append(c2);
-
-         // decrease freq
-         freqMap.put(c1,freqMap.get(c1)-1);
-         freqMap.put(c2,freqMap.get(c2)-1);
-
-         if(freqMap.get(c1)>0) maxHeap.add(c1);
-         if(freqMap.get(c2)>0) maxHeap.add(c2);  // heap m duabra daaal diya ahhh ahhh ahh
-
-       }
-
-       if(!maxHeap.isEmpty())
-       {
-          char ch = maxHeap.poll();
-
-          if(freqMap.get(ch)>1) return "";
-          res.append(ch);
-       }
-
-       return res.toString();
+        return res.toString();
     }
 }
