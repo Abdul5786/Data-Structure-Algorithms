@@ -12,6 +12,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0061-rotate-list) |
@@ -54,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0049-group-anagrams) |
@@ -1078,5 +1080,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
