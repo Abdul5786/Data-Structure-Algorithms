@@ -514,6 +514,7 @@
 | [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Stack
 |  |
@@ -743,6 +744,7 @@
 | [0139-word-break](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -750,6 +752,7 @@
 | [0090-subsets-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
