@@ -158,6 +158,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -566,6 +567,7 @@
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
