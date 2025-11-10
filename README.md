@@ -234,6 +234,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -455,6 +456,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -555,6 +558,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -709,6 +713,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
