@@ -235,6 +235,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3799-unique-3-digit-even-numbers) |
@@ -280,6 +281,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -451,6 +453,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -575,6 +578,7 @@
 | [2058-concatenation-of-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
