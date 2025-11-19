@@ -1,31 +1,20 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) 
     {
-        int requiredNumber =original;
-        int i=0;
+         Set<Integer> set =    new HashSet<>();
 
-         while(i<nums.length)
-        {
-            if(nums[i]==requiredNumber)
-            {
-                requiredNumber  *=2;
-                i=0;
-            }
-           
-           else
-           {
-              i++;
-           }
-        }
+         for(int num:nums)
+         {
+            set.add(num);
+         }
 
-        if(requiredNumber!=original)
-        {
-            return requiredNumber;
-        }
+         int value =original;
 
-        else
-        {
-            return original;
-        }
+         while(set.contains(value))
+         {
+             value *=2; 
+         }
+
+         return value;
     }
 }
