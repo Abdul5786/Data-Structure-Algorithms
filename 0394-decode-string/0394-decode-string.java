@@ -1,30 +1,43 @@
+import java.util.Stack;
+
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> st1 = new Stack<>();
-        Stack <String> st2 = new Stack<>();
-        String current = "";
+        Stack<Integer> countStack = new Stack<>();
+        Stack<String> stringStack = new Stack<>();
+        String currentString = "";
+        int index = 0;
 
-        int multiper = 0;
-        for(char ch : s.toCharArray()){
-            if(Character.isDigit(ch)){
-                multiper = multiper *10 +(ch- '0');
-            }
-            else if(ch == '['){
-                st1.push(multiper);
-                st2.push(current);
-                multiper = 0;
-                current = "";
-            }
-            else if(ch == ']'){
-                int repeat = st1.pop();
-                String previous = st2.pop();
-                current = previous +current.repeat(repeat);
-            }
-            else{
-                current += ch;
+        while (index < s.length()) {
+            char ch = s.charAt(index);
+
+            if (Character.isDigit(ch)) {
+                int count = 0;
+                while (Character.isDigit(s.charAt(index))) {
+                    count = count * 10 + (s.charAt(index) - '0');
+                    index++;
+                }
+                countStack.push(count);
+
+            } else if (ch == '[') {
+                stringStack.push(currentString);
+                currentString = "";
+                index++;
+
+            } else if (ch == ']') {
+                StringBuilder temp = new StringBuilder(stringStack.pop());
+                int repeatTimes = countStack.pop();
+                for (int i = 0; i < repeatTimes; i++) {
+                    temp.append(currentString);
+                }
+                currentString = temp.toString();
+                index++;
+
+            } else {
+                currentString += ch;
+                index++;
             }
         }
-        return current;
+
+        return currentString;
     }
 }
-  
