@@ -106,6 +106,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -238,6 +239,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -654,6 +656,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -775,6 +778,7 @@
 | [0136-single-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
