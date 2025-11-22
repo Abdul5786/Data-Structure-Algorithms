@@ -167,6 +167,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -465,6 +466,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
