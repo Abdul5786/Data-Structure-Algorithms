@@ -28,6 +28,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
@@ -146,6 +147,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
@@ -354,6 +356,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
