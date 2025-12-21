@@ -103,6 +103,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0807-custom-sort-string) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -430,6 +431,7 @@
 | [0932-monotonic-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
@@ -740,6 +742,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0917-boats-to-save-people) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
