@@ -113,6 +113,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
@@ -676,6 +677,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
