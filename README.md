@@ -448,6 +448,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1319-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -653,6 +654,7 @@
 | [1036-rotting-oranges](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -713,6 +715,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
