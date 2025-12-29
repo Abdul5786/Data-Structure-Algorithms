@@ -101,6 +101,7 @@
 | [0647-palindromic-substrings](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0807-custom-sort-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -236,6 +237,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0746-prefix-and-suffix-search](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0746-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
@@ -805,6 +807,7 @@
 | [0090-subsets-ii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -826,6 +829,7 @@
 | [0216-combination-sum-iii](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abdul5786/Data-Structure-Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Trie
 |  |
